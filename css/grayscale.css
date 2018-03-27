@@ -29,7 +29,7 @@ h6 {
 }
 
 h1 {
-	text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 p {
@@ -233,5 +233,5 @@ body {
   -webkit-tap-highlight-color: rgba(255, 0, 0, 0.2); }
 
 #dragon{
-	float: left;
+  float: left;
 }
